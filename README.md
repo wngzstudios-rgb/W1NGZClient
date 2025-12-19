@@ -1,3 +1,6 @@
 # W1NGZClient
-A Advanced Mod Checker for Gorilla Tag!
-<img width="1872" height="1872" alt="image" src="https://github.com/user-attachments/assets/1afb06c2-c475-47d0-ab5d-e485fdaaa532" />
+<img width="1536" height="1024" alt="W1NGZClient" src="https://github.com/user-attachments/assets/03508a68-7018-4fa5-8c87-53f19600a34f" />
+# INFO
+
+W1NGZ CLIENT IS ONE OF THE BY FAR BEST FREE! MOD CHECKER THAT YOU CAN USE FOR ABSOLUTLEY FREE!
+NEWER UPDATES WILL BE COMING TO THE MOD CHECKER <3
